@@ -7,3 +7,4 @@ Branch<br>
 Forks<br>
 Commits<br>
 Pull Requests<br>
+Merge<br>
