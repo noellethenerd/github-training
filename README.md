@@ -2,8 +2,8 @@
 
 Important Vocabulary
 
-Repository (Repos)
-Branch
-Forks
-Commits
-Pull Requests
+Repository (Repos)<br>
+Branch<br>
+Forks<br>
+Commits<br>
+Pull Requests<br>
