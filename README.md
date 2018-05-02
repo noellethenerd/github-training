@@ -3,8 +3,8 @@
 Relevant Vocabulary
 
 [Repository/Repos](https://guides.github.com/activities/hello-world/#repository)
-<br>[Branch] (https://guides.github.com/activities/hello-world/#branch)
-<br>[Forks] (https://guides.github.com/activities/hello-world/#commit)
+<br>[Branch](https://guides.github.com/activities/hello-world/#branch)
+<br>[Forks](https://guides.github.com/activities/hello-world/#commit)
 <br>Commits
 <br>Pull Requests
 <br>Merge
