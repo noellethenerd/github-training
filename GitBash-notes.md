@@ -1,16 +1,17 @@
-#Git Bash notes
+# Git Bash notes
 
 Copy url
   Under green Clone/Download button in GitHub repo
 
-Open git Bash
-Type `git clone [url]`
-  _use use shift+insert to paste url_
-Type `cd [repo name]`
-Type `atom .`
+Open git Bash (_Note: use use shift+insert to paste url_)
+```
+git clone [url]
+cd [repo name]
+atom .
+```
   *This will open atom in the current directory but you can use any IDE you prefer*
-Make your changes
-...
+Make your changes!
+___
 To view changes you've made
 ```
 git status
