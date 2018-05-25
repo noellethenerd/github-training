@@ -29,12 +29,8 @@ You can also stage specific files.
 ```
 git add filename
 ```
-#### Commit changes to your branch.
-Now you are ready to commit changes
+#### Push changes to your branch.
 ```
 git commit -m "This is my commit message"
-```
-After commit, we want to push
-```
 git push
 ```
