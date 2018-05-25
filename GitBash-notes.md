@@ -1,10 +1,7 @@
 # Git Bash notes
 
-Copy repo url
-###### Found under green Clone/Download button in GitHub repo
-
-Open GitBash
-###### Note: use use shift+insert to paste url
+Pull repo from GitHub
+###### Repo url is found under green Clone/Download button in GitHub repo. Press copy button and use use shift+insert to paste url in GitBash.
 ```
 git clone [url]
 cd [repo name]
